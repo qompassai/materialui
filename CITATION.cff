@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "Qompass AI on MaterialUI"
+title: "materialui"
 message: "If you use this software, please cite it as below."
 authors:
   - family-names: "Porter"
@@ -16,7 +16,7 @@ keywords:
   - Healthcare
   - Post-Quantum Cryptography
   - Quantum
-  - javascript
-  - google
-  - materialui
-abstract: "Qompass AI on MaterialUI: When your react components need material design"
+  - data science
+  - machine learning
+  - python
+abstract: "Qompass AI on MaterialUI: When your React components need material design"
