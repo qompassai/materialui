@@ -7,6 +7,7 @@
 <h3> Qompass AI on MaterialUI </h3>
 
 ![Repository Views](https://komarev.com/ghpvc/?username=qompassai-materialui)
+![GitHub all releases](https://img.shields.io/github/downloads/qompassai/materialui/total?style=flat-square)
   <a href="https://mui.com/">
   <img src="https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI">
 </a>
